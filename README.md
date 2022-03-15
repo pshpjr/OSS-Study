@@ -1,6 +1,6 @@
 # OSS_Study
 
-This is an OSS Study Document. I study about **Open Source Software** in my *class*.
+***This is an OSS Study Document. I study about **Open Source Software** in my *class*.
 
 List for study.
 
@@ -9,5 +9,5 @@ List for study.
 - Study hard for my score
 
 ```
-I want A+ Score!
+I want A+ Score!Cancel changes
 ```
