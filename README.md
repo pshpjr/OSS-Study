@@ -4,7 +4,7 @@
 
 I study about **Open Source Software** in my class.
 
-*List for study*.
+"김민관 바보"
 
 - Don't sleep at class
 - Concentrate on class
